@@ -5,4 +5,3 @@ deepgram-sdk
 python-dotenv
 gunicorn
 gevent
-gevent-websocket
