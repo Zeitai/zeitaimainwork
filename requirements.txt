@@ -3,5 +3,3 @@ flask-sock
 groq
 deepgram-sdk
 python-dotenv
-gunicorn
-gevent
